@@ -1,4 +1,4 @@
-# Èquilibre Data Processing Service
+# Fractal Data Processing Service
 
 This repository contains a Node.js application that simplifies the retrieval and processing of data from the Kava blockchain. The application leverages Redis, a powerful in-memory data store, to provide fast and efficient storage for the processed data.
 
